@@ -29,5 +29,5 @@
 <div>
 
   <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=jodovaljow&count_private=true&theme=vue" />
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodovaljow&layout=compact&langs_count=10)" />
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodovaljow&layout=compact&langs_count=10" />
 </div>
